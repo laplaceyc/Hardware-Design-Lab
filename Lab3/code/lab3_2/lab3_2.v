@@ -1,6 +1,3 @@
-`timescale 1ns / 1ps
-
-
 module lab3_2(output [15:0]LED,
               input sel_clk,
 			  input clk,
