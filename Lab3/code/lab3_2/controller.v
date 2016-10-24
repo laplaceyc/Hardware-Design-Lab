@@ -1,6 +1,3 @@
-`timescale 1ns / 1ps
-
-
 module controller(output reg [15:0]LED,
 			      input clk,
 			      input reset);
