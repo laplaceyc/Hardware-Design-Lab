@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 module clock_divider(clk13, clk25, clk);
 input clk;
 output clk25;
