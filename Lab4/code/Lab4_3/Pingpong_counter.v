@@ -1,5 +1,3 @@
-`timescale 1ns / 1ps
-
 module Pingpong_counter (clk, reset, en, BCD0, BCD1, cout);
 
 	input	clk, reset, en;
