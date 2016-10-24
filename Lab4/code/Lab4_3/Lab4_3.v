@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 module Lab4_3( DIGIT, DISPLAY, max, min, en, reset, clk);
 		
 input en;
