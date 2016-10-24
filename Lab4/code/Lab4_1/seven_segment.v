@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 module seven_segment(DIGIT, DISPLAY, BCD0, clk
     );
 input clk;
