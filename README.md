@@ -16,7 +16,7 @@ Use sequential circuit to module a 1-digit BCD counter.<br>
 # Lab3 Clock Divider and LED Controller
 Module your design on FPGA demo board to control the LEDs by requirement<br>
 &nbsp;&nbsp;&nbsp;&nbsp;●Lab3_1: module a LED controller by requirement<br>
-&nbsp;&nbsp;&nbsp;&nbsp;●Lab3_2: rewrite Lab3_1 by adding a speed selecting signal to speed up/down the light frequency<br>
+&nbsp;&nbsp;&nbsp;&nbsp;●Lab3_2: rewrite Lab3_1 by adding a speed selection signal to speed up/down the light frequency<br>
 # Lab4 BCD and Pingpong Counters
 Module a BCD/Pingpong counter on FPGA demo board to control the 7-segment display by requirement<br>
 &nbsp;&nbsp;&nbsp;&nbsp;●Lab4_1: module Lab2_2 to the FPGA on demo board<br>
