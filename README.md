@@ -22,3 +22,5 @@ Module a BCD/Pingpong counter on FPGA demo board to control the 7-segment displa
 &nbsp;&nbsp;&nbsp;&nbsp;●Lab4_1: module Lab2_2 to the FPGA on demo board<br>
 &nbsp;&nbsp;&nbsp;&nbsp;●Lab4_2: extend Lab4_1 from 1-digit to 2-digit<br>
 &nbsp;&nbsp;&nbsp;&nbsp;●Lab4_1: module a 2-digit pingpong counter to the FPGA on demo board<br>
+# Lab5 Ticket Machine
+Module a controller for a ticket machine on FPGA demo board as requirement<br>
