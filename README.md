@@ -1,5 +1,6 @@
 # Hardware-Design-Lab
-This repo is "NTHU Hardware Design & Lab" course project.
+This repo is "NTHU Hardware Design & Lab" course project source code.<br>
+It is encouraged for you to reuse them for your term project. 
 # FPGA Design Enviroment
 Xilinx Vivado & Basys3 Demo Board
 
